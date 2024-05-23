@@ -2,3 +2,8 @@ body{background-color: rgb(217, 194, 239);}
 .titulo-principal{font-size: 40px;
 text-align: center;
 color: rgb(161, 25, 25);}
+
+
+p{color:white;
+font-size: 20px;
+}
